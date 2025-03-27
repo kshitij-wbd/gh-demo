@@ -20,6 +20,6 @@ jobs:
     steps:
       - name: Printing statements
         run: |
-            echo: "First statement"
+            echo "First statement"
             echo "Second statement"
   
